@@ -69,6 +69,14 @@ body {
 	text-transform: uppercase;
 }
 
+#resumelink {
+	color: #ffffff;
+}
+
+#resumelink:hover {
+	color: rgb(180, 180, 180);
+}
+
 
 
 
