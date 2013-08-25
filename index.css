@@ -48,3 +48,41 @@ body {
 #arrow:hover {
 	opacity: 1;
 }
+
+.aboutMeContainer {
+	width: 40%;
+	font-family: 'Lato', sans-serif;
+	color: #ffffff;
+	font-size: 15px;
+	position: absolute;
+	opacity: .8;
+	top: 250px;
+	left: 10px;
+	right: 0;
+	background-color: rgba(5, 5, 5, 0.6);
+	padding: 8px;
+}
+
+.aboutMe {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
