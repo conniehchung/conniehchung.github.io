@@ -49,7 +49,7 @@ body {
 	opacity: 1;
 }
 
-.aboutMeContainer {
+#aboutMeContainer {
 	width: 40%;
 	font-family: 'Lato', sans-serif;
 	color: #ffffff;
@@ -57,10 +57,11 @@ body {
 	position: absolute;
 	opacity: .8;
 	top: 250px;
-	left: 10px;
+	left: -1000px;
 	right: 0;
 	background-color: rgba(5, 5, 5, 0.6);
 	padding: 8px;
+	transition: left .7s;
 }
 
 .aboutMe {
