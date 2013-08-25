@@ -35,3 +35,16 @@ body {
 .links {
 	display: inline-block;
 }
+
+#arrow {
+	color: #fff;
+	font-size: 70px;
+	opacity: .7;
+	position: absolute;
+	bottom: 0;
+	right: 10;
+}
+
+#arrow:hover {
+	opacity: 1;
+}
